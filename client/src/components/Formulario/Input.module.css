@@ -1,0 +1,34 @@
+.form{
+    display: flex;
+    flex-direction: column;
+}
+.label{
+    align-self: center;
+    text-align: center;
+    font-size: 1.3vw;
+    max-width: 18.65vw;
+    color: rgb(154, 101, 201);
+
+}
+.input{
+    border: none;
+    border-bottom: 1.5px solid rgb(154, 101, 201);
+    height: 2.5vh;
+    text-align: center;
+    font-size: 1vw;
+    min-width: 18vw;
+}
+.input:focus{
+    outline: none;
+}
+.error{
+   color: red;    
+}
+.select{
+    border: none;
+    border-bottom: 1.5px solid rgb(154, 101, 201);
+    height: 3vh;
+    text-align: center;
+    font-size: 1vw;
+    min-width: 18vw;
+}

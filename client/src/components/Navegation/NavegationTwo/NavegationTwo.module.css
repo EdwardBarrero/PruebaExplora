@@ -1,0 +1,38 @@
+.navegationTwo{
+    height: 100vh;
+    background-image: url(../../../img/WEB/OBJETIVO-FONDO-COMPLETO.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    align-items: end;
+    justify-content: center;
+}
+.container{
+    width: 65vw;
+}
+.title{
+    color: rgb(154, 101, 201);
+    font-size: 3.8vw;
+    text-decoration: underline;
+    line-height: 4vw;
+    padding-bottom: 4vw;
+}
+.object img{
+    width: 1.5vw;
+    height: 7vh;
+}
+
+.object{
+    display: flex;    
+}
+.content{
+    margin: 0;
+    margin-left: 1vw;
+    padding-bottom: 2vw;
+    text-align:left;
+    color: rgb(154, 101, 201);
+    font-size: 1.6vw;
+    font-weight: bold;
+    line-height: 1.6vw;
+}

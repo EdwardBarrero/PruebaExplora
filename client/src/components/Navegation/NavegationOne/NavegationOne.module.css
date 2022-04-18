@@ -1,0 +1,38 @@
+.navegationone{
+    background-image: url(../../../img/WEB/INTRO-FONDO.jpg);
+    background-size: 100%;
+    height: 100vh;
+    width: 100%;
+}
+.contain{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding-top: 5em;
+cursor: default;
+}
+.content{
+  max-width: 40vw;
+  color: white;
+  font-size: 1.2em;
+  margin: 6vh;
+}
+
+.title{
+    font-size: 6.5em;
+    max-width: 50vw;
+    margin: 0;
+    color: white;
+    font-weight: bold;
+    line-height: 0.9em;
+}
+
+.textwhatsapp{
+    font-size: larger;
+    color: white;    
+}
+.introWhatsApp{
+    cursor: pointer;
+       
+}

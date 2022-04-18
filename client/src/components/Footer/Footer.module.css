@@ -1,0 +1,43 @@
+.footer{
+    min-height: 50%;
+    width: 100%;
+    background-color: rgb(237, 237, 237);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.explora{
+   width: 100px; 
+   margin-bottom: 40px;
+}
+.planetario{
+    width: 130px;
+}
+.encuentranos{
+    display: flex;
+    flex-direction: column;
+}
+.informacion{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    width: 50%;
+    margin: 3rem 0;
+}
+.infoRedes{
+    display: flex;
+    width: 80%;
+    align-self: flex-end;
+    justify-content: space-around;
+}
+.infoRedes p{
+    font-weight: bold;
+}
+.redes img{
+    width: 20%;
+    align-self: center;
+}
+.mail{
+    height: 40%;
+}

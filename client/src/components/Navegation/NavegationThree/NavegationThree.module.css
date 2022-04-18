@@ -1,0 +1,62 @@
+.navegationThree{
+    background-color: rgb(154, 101, 201);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.menu{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.caracteristicas{
+    width: 70vw;
+    display: flex;
+    justify-content: space-around;
+}
+.botton{
+    height: fit-content;
+    align-self: center;
+    padding: 0 3vw;
+    cursor: pointer;
+}
+
+.descripcionCaracteristicas{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 50%;
+}
+.title{
+    grid-column-start: 1;
+    grid-column-end: 4;
+    justify-self: center;
+    margin: 0;
+    margin-top: 3.5vw;
+    color: white;
+    text-decoration: underline;
+    font-size: 4vw;
+    margin-bottom: 1.2vw;
+}
+.content{
+    display: flex;
+}
+.content p{
+    margin: 0;
+    padding-left: 5px;
+    font-size: 1.2vw;
+    margin-bottom: 25px;
+    color: white;
+    font-weight: bold;
+    line-height: 25px;
+}
+.bullet{
+    height: fit-content;
+    padding-top: 10px;
+}
+.caracteristica{
+    width: 30vw;
+}
+
+
