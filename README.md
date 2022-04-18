@@ -16,6 +16,10 @@ Para acceder de forma local debes clonar el repositorio.
   
   <b>DB_PASSWORD = "YOUR_DB_PASSWORD" (Para esto debes de crear una cuenta en mongoDB)
   
+  DB_USER = "YOUR_DB_USER" (Tu usuario de mongoDB)
+
+  DB_NAME = "DB_NAME" (El nombre con el cual llamaras a tu base de datos)
+  
   API_KEY = "YOUR_API_KEY" (Para consumir la api de pexels para lo cual debes de crear una cuenta en su pagina https://www.pexels.com/es-es/api/)
   
   module.exports = {DB_PASSWORD, API_KEY}</b>
