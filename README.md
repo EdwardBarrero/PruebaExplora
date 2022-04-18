@@ -39,7 +39,12 @@ Para acceder de forma local debes clonar el repositorio.
 
 3. Ejecutaremos el comando npm start y por defecto se abrira en el puerto 3000
 
-<b>NOTA:</b> el proyecto no esta terminado al 100%, por lo tanto el reedme como el codigo pueden cambiar
+<b>NOTA:</b> el proyecto no esta terminado al 100%, por lo tanto el reedme como el codigo pueden cambiar por el momento se encuentran habilitadas las rutas
+
+- "Experimenta"
+- "Conocenos"
+
+Puedes acceder a ellas desde el menu de navegación.
 
 
 
